@@ -1,3 +1,3 @@
 **11h**
 
-# Lean xiaomi R3G
+# xiaomi R3G
