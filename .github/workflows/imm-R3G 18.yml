@@ -12,7 +12,7 @@
 
 name: imm-R3G 18.06
 
-on:
+于:
   repository_dispatch:
   workflow_dispatch:
 
@@ -30,7 +30,7 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-20.04
 
     steps:
     - name: Checkout
