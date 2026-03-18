@@ -12,7 +12,7 @@
 
 name: imm-R3G 18.06
 
-于:
+on:
   repository_dispatch:
   workflow_dispatch:
 
